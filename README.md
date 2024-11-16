@@ -80,7 +80,7 @@ Selamat datang di **Sitira Sama**, layanan web services untuk mengelola penitipa
 
 ### **Swagger UI**
 Swagger UI menyediakan antarmuka visual untuk eksplorasi API. Anda dapat mengakses Swagger UI melalui URL berikut setelah aplikasi dijalankan:
-http://localhost:8080/swagger-ui/index.html](http://localhost:8080/docs/swagger-ui/index.html#/
+(http://localhost:8080/docs/swagger-ui/index.html#/)
 
 
 ### **File OpenAPI JSON**
@@ -118,7 +118,7 @@ https://raw.githubusercontent.com/jordandwifebriyanto/SitiraSama/main/openapi.js
 
 ## 🧪 **Pengujian**
 ### **1. Swagger UI**
-Buka Swagger UI di http://localhost:8080/swagger-ui/index.html untuk mencoba endpoint secara langsung.
+Buka Swagger UI di http://localhost:8080/docs/swagger-ui/index.html#/ untuk mencoba endpoint secara langsung.
 
 ### **2. Postman**
 Import file OpenAPI JSON untuk menguji endpoint secara manual.
