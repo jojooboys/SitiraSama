@@ -98,7 +98,7 @@ https://raw.githubusercontent.com/jordandwifebriyanto/SitiraSama/main/openapi.js
    cd SitiraSama
 2. Pastikan Anda memiliki Java 21 atau lebih baru, Maven, dan PostgreSQL terinstall.
 3. Buat database baru di PostgreSQL:
-   CREATE DATABASE SitiraSama;
+   CREATE DATABASE PenitipanBarangSatpam;
 4. Konfigurasikan application.properties:
    spring.application.name=penitipanbarang
    spring.datasource.url=jdbc:mysql://localhost:3306/PenitipanBarangSatpam
